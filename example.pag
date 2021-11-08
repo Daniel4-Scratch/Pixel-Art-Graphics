@@ -1,0 +1,4 @@
+['name':'example', 'description':'example file']
+['height':7, 'width':7]
+
+['x':2, 'y':2, 'colour':'#302dff'], ['x':2, 'y':4, 'colour':'#302dff'], ['x':2, 'y':6, 'colour':'#302dff'], ['x':4, 'y':2, 'colour':'#ff2d2d'], ['x':4, 'y':4, 'colour':'#ff2d2d'], ['x':4, 'y':6, 'colour':'#ff2d2d']
